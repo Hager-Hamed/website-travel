@@ -106,6 +106,10 @@ p {
 margin-top: 70px;
 }
 
+.mb-90{
+  margin-bottom: 90px;
+  }
+
 /* ================================================== top Navbar ================================================ */
 
 .topbar .dropdown-toggle::after {
@@ -606,6 +610,9 @@ nav {
   }
   .slider .list .item .content .title {
     font-size: 50px;
+  }
+  .packages__h1{
+    font-size: 27px;
   }
 }
 
